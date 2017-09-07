@@ -1,3 +1,11 @@
+# FastTrack for Azure
+
+See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
+
+# Backup, Archive & Disaster Recovery Scenarios
+
+* [Backup & Archive](backupandarchive/walkthrough.md)
+* [Disaster Recovery](disasterrecovery/walkthrough.md)
 
 # Contributing
 
